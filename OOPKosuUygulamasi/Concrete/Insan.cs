@@ -40,6 +40,6 @@ namespace OOPKosuUygulamasi.Concrete
         public double ToplamYol(double temposuzKosu, double tempoluKosu) // Toplam tempolu ve temposuz kosularıma göre katetdiğim mesafeyi hesapladım.
         {
             return tempoluKosu + temposuzKosu;
-        }
+        } 
     }
 }
